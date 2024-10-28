@@ -1,0 +1,16 @@
+{
+  "messages": [
+    {
+      "content": "Hello from JSON Server! abhi ok na",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "content": "Another message!"
+    },
+    {
+      "id": "1cc4",
+      "content": "hi this is from abhishek"
+    }
+  ]
+}
